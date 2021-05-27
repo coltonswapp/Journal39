@@ -9,6 +9,8 @@ import UIKit
 
 class Entry {
     
+    // This is our entry model - really nothing wildly new here. 
+    
     var body: String
     var title: String
     var uuid: String
