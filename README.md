@@ -9,6 +9,7 @@ This is a simple journal application using Firebase as the backend service. Crea
 
 > If you have any questions, feel free to reach out. 
 
+* Also included in this project is a fun little textfield manipulation where we add some subLayers to the frame to spice it up a little. That code can be found in the `EntryDetailController`.
 
 ### Sidenote - another great resource for learning Firebase is the `HypeFire` project that was created by Cameron Stuart. The link to that repo is: `https://github.com/DevMountain/HypeFire`
 
