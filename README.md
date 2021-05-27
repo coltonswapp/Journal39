@@ -13,3 +13,4 @@ This is a simple journal application using Firebase as the backend service. Crea
 
 ### Sidenote - another great resource for learning Firebase is the `HypeFire` project that was created by Cameron Stuart. The link to that repo is: `https://github.com/DevMountain/HypeFire`
 
+> I also wrote a full Notion page with screenshots and code snippets that correspond with the steps taken to get Firebase hooked up and confirm that it is working. Link: `https://www.notion.so/Journal39-Firebase-721aff78fab7472aac1031aa728f252f`
