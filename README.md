@@ -9,7 +9,6 @@ This is a simple journal application using Firebase as the backend service. Crea
 
 > If you have any questions, feel free to reach out. 
 
-```
- Sidenote - another great resource for learning Firebase is the `HypeFire` project that was created by Cameron Stuart. The link to that repo is: `https://github.com/DevMountain/HypeFire`
- 
-```
+
+### Sidenote - another great resource for learning Firebase is the `HypeFire` project that was created by Cameron Stuart. The link to that repo is: `https://github.com/DevMountain/HypeFire`
+
