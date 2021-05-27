@@ -1,0 +1,6 @@
+framework module Pods_Journal39 {
+  umbrella header "Pods-Journal39-umbrella.h"
+
+  export *
+  module * { export * }
+}
